@@ -71,7 +71,7 @@ button{
   margin: 0;
 }
 #phone{
-  margin-top: 22px;
+  padding-top: 22px;
 }
 #contact-us>a{
   text-decoration: none;
