@@ -2,11 +2,11 @@
 @media (max-width:480px) {
   .container{
     margin: 0 auto;
-    min-width: 356px;
+    min-width: 480px;
     width: 100%;
   }
   .row{
-    max-width: 356px;
+    max-width: 480px;
     width: 100%;
     margin: auto 0;
     min-height: 20px;
